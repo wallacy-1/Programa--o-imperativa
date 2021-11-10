@@ -52,5 +52,5 @@ function microondas(opcaoesc, Tcomida) {
     }
 }
 
-let teste = microondas(5, 8);
+let teste = microondas(5, 8); // (opção prato , tempo usuario)
 console.log(teste);
